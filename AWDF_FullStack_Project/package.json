@@ -1,0 +1,13 @@
+{
+  "name": "awdf-unified-practicals-1-to-9",
+  "version": "1.0.0",
+  "description": "Unified Full-Stack Project combining all features of AWDF Practicals 1 to 9 (ITUE301)",
+  "scripts": {
+    "start:backend": "npm --prefix backend start",
+    "start:frontend": "npm --prefix frontend run dev",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev"
+  },
+  "author": "Mansi Jogani",
+  "license": "ISC"
+}
