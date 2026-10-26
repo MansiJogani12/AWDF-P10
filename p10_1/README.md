@@ -1,4 +1,3 @@
-# AWDF_P9
 
 ## Practical 10 — Event-driven background notifications
 
